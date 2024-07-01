@@ -1,0 +1,1 @@
+### BERT 为什么 token embedding 和 pe 可以直接相加？
